@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import logo from './assets/logo.jpeg';
+import logo from './assets/logo.png';
 
 function App() {
   const [selectedModel, setSelectedModel] = useState('');

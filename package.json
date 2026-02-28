@@ -27,7 +27,7 @@
   },
   "build": {
     "appId": "com.resetfactory.app",
-    "productName": "Reset Factory",
+    "productName": "ALTALINK RESET TOOL",
     "directories": {
       "buildResources": "assets",
       "output": "release"
