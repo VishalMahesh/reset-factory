@@ -32,6 +32,7 @@
       "buildResources": "assets",
       "output": "release"
     },
+    "publish": null,
     "files": [
       "src/main/main.js",
       "src/main/preload.js",
